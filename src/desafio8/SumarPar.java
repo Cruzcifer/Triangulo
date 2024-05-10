@@ -10,7 +10,7 @@ public class SumarPar {
 		Scanner teclado = new Scanner(System.in);
 		int numero,sum=0;
 		
-		System.out.println("Ingrese numero ");
+		System.out.println("Ingrese nUMERORO DOEOFEO");
 		numero = teclado.nextInt();
 		
 		for(int i= 0; i <= numero; i++) {
