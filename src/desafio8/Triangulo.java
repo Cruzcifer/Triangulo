@@ -12,7 +12,7 @@ public class Triangulo {
 			System.out.print("\n");
 		}
 		
-		System.out.println("este cambio quei lo vera ");
+		System.out.println("este cambio fue hecho en github ");
 	}
 
 }
